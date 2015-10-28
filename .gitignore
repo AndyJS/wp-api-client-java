@@ -1,7 +1,13 @@
-*.class
+# IDE Files
+.settings/org.eclipse.jdt.core.prefs
+.project
+.classpath
+target
+.idea
+*.iml
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Java Compilation
+*.class
 
 # Package Files #
 *.jar
