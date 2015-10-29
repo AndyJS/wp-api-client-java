@@ -2,12 +2,12 @@
 .settings/org.eclipse.jdt.core.prefs
 .project
 .classpath
-target
 .idea
 *.iml
 
 # Java Compilation
 *.class
+target
 
 # Package Files #
 *.jar
